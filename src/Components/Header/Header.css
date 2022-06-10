@@ -1,0 +1,14 @@
+.logoStyle{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+.description{
+    margin-left: 60px;
+    margin-right: 60px;
+    border-bottom: 3px solid lightgrey;
+}
+.headings{
+    color: blue;
+}

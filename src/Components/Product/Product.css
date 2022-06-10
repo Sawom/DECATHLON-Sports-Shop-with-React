@@ -1,0 +1,31 @@
+.cardStyles{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 3px 5px 5px 3px  lightgray;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.cardStyles img{
+    width: 200px;
+}
+.btn{
+    background-color: #0A369B;
+    color: white;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+.textColor{
+    color: darkblue;
+}
+.searchPosition{
+    text-align: center;
+}
+.searchPosition input{
+    width: 70%;
+    height: 30px;
+    border-radius: 5px;
+}
